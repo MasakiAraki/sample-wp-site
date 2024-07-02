@@ -1,0 +1,12 @@
+{
+    "name": "arakimasaki/wordpress-project",
+    "type": "wordpress-project",
+    "autoload": {
+        "psr-4": {
+          "Seeds\\": "wp-content/plugins/seeds/"
+    }
+    },
+    "require": {
+        "fakerphp/faker": "^1.23"
+    }
+}
