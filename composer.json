@@ -3,7 +3,7 @@
     "type": "wordpress-project",
     "autoload": {
         "psr-4": {
-          "Seeds\\": "wp-content/plugins/seeds/"
+          "WordPressSeeder\\": "wp-content/plugins/wordpress-seeder/"
     }
     },
     "require": {
