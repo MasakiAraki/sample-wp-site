@@ -20,6 +20,8 @@
 # Configuration
 wp-config.php
 
+local-xdebuginfo.php
+
 # Example themes
 /wp-content/themes/twenty*/
 
